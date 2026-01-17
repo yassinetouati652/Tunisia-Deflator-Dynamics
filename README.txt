@@ -14,11 +14,6 @@ This project examines how Tunisia's price levels have changed over decades by an
    - Calculated year-over-year percentage changes
    - Generated descriptive statistics
 4. **Visualization**: Created time-series plots showing deflator trends over 50+ years
-
-## Key Findings
-- [Briefly mention 1-2 interesting trends you observed]
-- [Example: "The data shows significant deflator increases during..."]
-
 ## Technologies Used
 - Python 3.x
 - pandas (data manipulation)
@@ -43,4 +38,5 @@ Potential expansions:
 ## About the Data
 Source: [Mention if you know the source - e.g., Tunisian government, World Bank, etc.]
 Period: 1970-2024
+
 Indicators: GDP Deflator values
